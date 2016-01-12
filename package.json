@@ -1,0 +1,21 @@
+{
+  "name": "herokumongtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "sequelize": "^3.15.1",
+    "sqlite3": "^3.0.10",
+    "mongodb": "^2.1.3",
+    "mongoose": "^4.3.5",
+    "ejs": "~2.3.3",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
