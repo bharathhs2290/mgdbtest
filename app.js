@@ -3,7 +3,7 @@
  */
 var express = require('express');
 
-var bodyParser = require('body-parser');
+//var bodyParser = require('body-parser');
 //var mongoose = require('mongoose');
 //mongoose.connect('mongodb://localhost/iot');
 
@@ -49,7 +49,7 @@ app.get('/',function(req,res){
 
     });
 
-});
+
 
 
 
